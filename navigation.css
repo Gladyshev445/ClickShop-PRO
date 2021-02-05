@@ -1,0 +1,244 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.navigat{
+    width: 100%;
+    height: 100px;
+    border-bottom: 2px orange solid;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-left: 25px;
+    padding-top: 35px;
+}
+a{
+    text-decoration: none;
+    color: orange;
+    font-size: 20px;
+}
+.l1{
+    padding-left: 700px;
+}
+.fa-door-open{
+    font-size: 20px;
+    color: orange;
+}
+.fa-cuttlefish{
+    font-size: 20px;
+    color: orange;
+}
+.fa-user-tie{
+    font-size: 20px;
+    color: orange;
+}
+.fa-cog{
+    font-size: 20px;
+    color: orange;
+}
+.fa-user-edit{
+    font-size: 20px;
+    color: orange;
+}
+.fa-user{
+    font-size: 20px;
+    color: orange;
+}
+.fa-sign-out-alt{
+    font-size: 20px;
+    color: orange;
+}
+.headava{
+    width: 100%;
+    height: 600px;
+    background-image: url(./img/oranzhevyy_fon_sploshnoy_krasochnyy_65839_2048x1152.jpg);
+    border-bottom: 2px orange solid;
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: white;
+    margin: auto;
+    width: 290px;
+    padding-top: 200px;
+}
+.text2{
+    width: 404px;
+    margin: auto;
+    color: white;
+    padding-top: 10px;
+}
+.content{
+    width: 100%;
+    height: 1000px;
+}
+.contentpanel{
+    width: 600px;
+    height: 50px;
+    display: flex;
+}
+.categor{
+    width: 300px;
+    height: 50px;
+    color: orange;
+    border-bottom: orange 2px solid;
+}
+.nav1{
+    
+    margin-top: 15px;
+}
+.fa-caret-right{
+    font-size: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.u1{
+    display: block;
+    border-bottom: 2px orange solid;
+    width: 200px;
+    border-right: 2px orange solid;
+    background-color: white;
+}
+.u2{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u3{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u4{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u5{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u6{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u7{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u8{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 200px;
+}
+.u9{
+    position: absolute;
+    display: none;
+    border-right: orange 2px solid;
+    border-top: orange 2px solid;
+    border-bottom: orange 2px solid;
+    background-color: white;
+    justify-content: start;
+    margin-left: 10px;
+    width: 450px;
+}
+.half1{
+    display: block;
+    width: 50%;
+}
+.half2{
+    display: block;
+    width: 50%;
+}
+div li:hover > .u9{
+    display: flex;
+    position: absolute;
+}
+.l3{
+    padding-bottom: 20px;
+}
+div li:hover > ul{
+    display: block;
+    position: absolute;
+}
+.search{
+    width: 300px;
+    height: 50px;
+    border-bottom: orange 2px solid;
+    border-right: orange 2px solid;
+}
+legend{
+    margin-left: 15px;
+    height: 20px;
+    color: orange;
+    font-size: 17px;
+}
+input{
+    width: 180px;
+    height: 20px;
+    margin-left: 3px;
+    margin-top: 15px;
+    border-radius: 20px;
+    border: chocolate 2px solid;
+}
+.fa-search{
+    font-size: 22px;
+    color: orange;
+    padding-left: 6px;
+}
+.headcontent{
+    width: 1500px;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+    border: orange 2px solid;
+}
